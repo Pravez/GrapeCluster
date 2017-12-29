@@ -9,12 +9,6 @@ The slave Raspberries run one daemon written in C for each channels. The master 
 More information on how the cluster is built physically can be found here: http://se.labri.fr/grape/
 
 ## Contributors
-Cyril Bos
-Paul Breton
-Benjamin Dos Santos
-Nicolas Hannoyer
-Marion Lafon
-Jason Pindat
-Nicolas Vidal
+Cyril Bos, Paul Breton, Benjamin Dos Santos, Nicolas Hannoyer, Marion Lafon, Jason Pindat, Nicolas Vidal
 
 Students of ENSEIRB-MATMECA, France.
